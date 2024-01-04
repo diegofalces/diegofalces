@@ -2,6 +2,7 @@
 ### Técnico en telecomunicaciones
 - 🌱 Actualmente aprendiendo sobre python
 </br>
+
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
@@ -10,10 +11,6 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 
-
-
-
-  
 <!--
 **diegofalces/diegofalces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
