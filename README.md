@@ -1,5 +1,5 @@
 # Hola, mi nombre es Diego Martín 👋
-### Técnico en telecomunicaciones
+### Técnico en telecomunicaciones y sistemas informáticos
 - 🌱 Actualmente estoy aprendiendo sobre python
 </br>
 
